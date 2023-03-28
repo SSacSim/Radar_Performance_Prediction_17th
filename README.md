@@ -1,4 +1,4 @@
-## Radar_Performance_Prediction_17th
+## 자율주행 센서의 안테나 성능 예측 AI 경진대회
 
 대회 URL: https://dacon.io/competitions/official/235927/overview/description
 
